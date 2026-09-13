@@ -1,52 +1,61 @@
-<h1 align="center">Master Mark</h1>
-<h3 align="center">Backend Engineer • Systems Builder • Data-Driven Applications</h3>
+<h1 align="center">Mark Anthony Tubat</h1>
+<h3 align="center">Full-Stack Engineer • Next.js, TypeScript, Python & Go • Data Pipelines at Scale</h3>
 
 <p align="center">
-Building scalable web systems, information platforms, and efficient backend solutions.
+  <a href="https://m4rk-dev.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mark-anthony-tubat-7ab065279">LinkedIn</a> •
+  <a href="mailto:tubat.mark09@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 What I Do
+## 👋 About Me
 
-* ⚙️ Develop scalable backend and full-stack systems (Django, Next.js)
-* 📊 Build data-driven platforms for institutional and operational use
-* 🧠 Focus on structured systems, performance, and maintainability
-* 🔍 Implement intelligent features such as document similarity and analytics
+Full-stack developer with 3+ years of experience building web applications, APIs, and data pipelines using **Next.js, React, TypeScript, Python, and Go**.
+
+Currently working remotely for a US-based startup, where I help run data pipelines processing **17M+ records per day**, built an API serving **1,200+ requests per second**, and have shipped **170+ pull requests** across three Next.js products.
+
+Previously built government and enterprise systems in the Philippines, including a BIR-compliant accounting platform and a knowledge hub serving **20+ consortium member institutions**. Also experienced in PostgreSQL, ClickHouse, Docker, and iOS development with Swift.
 
 ---
 
 ## 🧩 Featured Work
 
-### 🔹 KM4AANR – Knowledge Management Hub
+### 🔹 [PocketPlan](https://pocketplan-six.vercel.app) — Local-First Personal Finance (iOS + Web)
 
-Centralized platform for managing regional research data, including publications, events, training materials, and institutional outputs.
+Native iOS app built with SwiftUI, SwiftData, and Swift Charts, backed by 130+ automated tests, plus a companion Next.js PWA with Convex real-time sync.
+[iOS repo](https://github.com/TubatMark/pocketplanIOS) · [Web repo](https://github.com/TubatMark/pocketplan) · [Live demo](https://pocketplan-six.vercel.app)
 
-### 🔹 Surface Scan
+### 🔹 [Digital Footprint Visualizer](https://github.com/TubatMark/digital-footprint-visualizer)
 
-Web-based security inspection tool that analyzes SSL/TLS configuration, HTTP headers, DNS settings, and server metadata to generate security scores.
+Privacy-education web app showing what any site can passively learn about its visitors (location, network, GPU, and hardware profile), with zero data stored.
 
-### 🔹 Financial Management System
+### 🔹 [StitchShot](https://github.com/TubatMark/stitchshot)
 
-Platform for tracking budgets and expenditures across operations, with dynamic categorization and real-time financial visibility.
+Open-source Chrome extension (Manifest V3) that scrolls a page, captures every screen, and stitches them into a single PNG.
+
+### 🔹 [KM4AANR — Knowledge Management Hub](https://github.com/TubatMark/km-system-v2)
+
+Regional platform centralizing research publications, events, training materials, and institutional outputs for 20+ consortium member institutions.
+
+### 🔹 [Surface Scan](https://github.com/TubatMark/surface-scan-backend)
+
+Web security inspection tool that analyzes SSL/TLS configuration, HTTP headers, DNS settings, and server metadata to generate security scores.
 
 ### 🔹 Thesis Repository with Similarity Detection
 
-Academic repository system integrating TF-IDF, cosine similarity, and KNN for document comparison and integrity checking.
-
-### 🔹 PocketPlan
-
-Minimal personal finance app for managing wallets, transactions, debts, and savings goals with a focus on simplicity and clarity.
+Academic repository using TF-IDF, cosine similarity, and KNN to compare documents and check research integrity.
 
 ---
 
 ## 🛠 Tech Stack
 
-* Backend: Python, Django, PHP
-* Frontend: Next.js, React, JavaScript
-* Database: MySQL, Convex, Supabase
-* Tools: REST APIs, Git, System Optimization
-* Concepts: NLP (TF-IDF, Cosine Similarity, KNN), Scalable Systems
+* **Languages:** TypeScript, JavaScript, Python, Go, Swift, SQL, PHP
+* **Frontend:** Next.js, React, PWA, Tailwind CSS
+* **Backend:** Node.js, FastAPI, Django, REST APIs, Web Scraping & ETL Pipelines
+* **Data:** ClickHouse, PostgreSQL, Supabase, Convex, Elasticsearch, MySQL
+* **Mobile:** SwiftUI, SwiftData, Swift Charts
+* **DevOps & Testing:** Docker, GitHub Actions, Linux, Vercel, Playwright, Vitest, XCUITest
 
 ---
 
@@ -60,16 +69,9 @@ Minimal personal finance app for managing wallets, transactions, debts, and savi
 
 ## 🔥 Current Focus
 
-* Improving backend architecture and scalability
-* Building structured information systems
-* Expanding data processing and intelligent features
-
----
-
-## 📫 Contact
-
-* Email: [tubat.mark09@gmail.com](mailto:tubat.mark09@gmail.com)
-* Portfolio: m4rk-dev.vercel.app
+* Scaling high-throughput data pipelines and analytics APIs
+* Shipping reliable full-stack products with strong automated testing
+* Building local-first apps across web and native iOS
 
 ---
 
